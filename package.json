@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "arm5api": "file:",
     "express": "^4.21.2"
   },
   "name": "arm5api",
   "version": "1.0.0",
   "description": "Arm Campaign Aid API",
   "main": "src/index.mjs",
-  "devDependencies": {},
   "scripts": {
     "test": "mocha --harmony"
   },
