@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "arm5api",
+  "version": "1.0.0",
+  "description": "Arm Campaign Aid API",
+  "main": "src/index.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartagia/arm5api.git"
+  },
+  "keywords": [
+    "ArM5",
+    "API",
+    "express"
+  ],
+  "author": "Antti Kautainen <kautsu@elisanet.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kartagia/arm5api/issues"
+  },
+  "homepage": "https://github.com/Kartagia/arm5api#readme"
+}
